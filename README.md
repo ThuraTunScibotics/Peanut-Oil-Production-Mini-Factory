@@ -6,7 +6,7 @@ We divided "Design Team" and "Control Team" with 5 members for each team. My res
 
 <img src="images/vinyl.jpg">
 
-## Applied Hardware and Software
+## Applied Hardwares and Software
 
 PLC - Mitsubishi FX2N 20MT (I-12/ O-8)
 
@@ -26,7 +26,7 @@ Components used in Output Interfaces:
                                      
 Software - GX works2 (For PLC programming)
 
-## Objective
+## Objectives
 - To look into mechanical design of screw milling, conveyor design and pneumatic based bottle capping mechanism
 - To understand the working principle of PLC controller used to control automation process
 - To innovate automation industry for small business.
