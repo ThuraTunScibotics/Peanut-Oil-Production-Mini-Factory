@@ -1,6 +1,7 @@
 # Peanut-Oil-Production-Mini-Factory
 
 This project is 5th year academic project and this is made by our project group including 10 members. We innovated `Peanut Oil Production Mini Factory` project and this project is awarded as `The Best Major Project of Mechanical Precision and Automation Engineering` of University project show and `Best Project Award of Faculty of Precision Engineering` in 2019 academic year. This project is composed of Peanut milling machine, screw oil press, automatic bottle filling and capping mechanism. The basic idea of innovating this project is to improve traditional and manual way of oil production to automation system for small business.
+
 We divided "Design Team" and "Control Team" with 5 members for each team. My responsibility for this projcet is to design automation process, implement electrical system and control system for the project. From this project, I got experiences of problem solving skills, critical thinking and team work. And I also got some experiences and basic knowledge of electrical control, NO/NC concept, sequence control, PLC, ladder logic programming and CAD Design with Solidworks.
 
 <img src="images/vinyl.jpg">
@@ -9,17 +10,19 @@ We divided "Design Team" and "Control Team" with 5 members for each team. My res
 
 PLC - Mitsubishi FX2N 20MT (I-12/ O-8)
 
-Components used in Input Interfaces - Emergency Buttom
-                                    - IR Sensors
-                                    - Push Buttom
-                                    - Float Switch
+Components used in Input Interfaces:
+- Emergency Buttom                              
+- IR Sensors
+- Push Buttom                               
+- Float Switch
                                 
-Components used in Output Interfaces - Indicator Light (Yellow, Green, Red)
-                                     - 12V Dc Motor
-                                     - 12V Dc Pump Motor
-                                     - TB 6600 Micro Step Driver
-                                     - Nema-17 Stepper Motor
-                                     - Pneumatics Cylinder, 5/2 ways DCV
+Components used in Output Interfaces:
+- Indicator Light (Yellow, Green, Red)                           
+- 12V Dc Motor                                  
+- 12V Dc Pump Motor                            
+- TB 6600 Micro Step Driver            
+- Nema-17 Stepper Motor                 
+- Pneumatics Cylinder, 5/2 ways DCV
                                      
 Software - GX works2 (For PLC programming)
 
