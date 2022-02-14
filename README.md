@@ -29,7 +29,7 @@ Software - GX works2 (For PLC programming)
 ## Objectives
 - To look into mechanical design of screw milling, conveyor design and pneumatic based bottle capping mechanism
 - To understand the working principle of PLC controller used to control automation process
-- To innovate automation industry for small business.
+- To innovate automation industry for small business
 
 ## Operation Process
 
